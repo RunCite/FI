@@ -1,3 +1,4 @@
 
 # Ignoramos la carpeta del informe
-SweaveP1
+.ipynb_checkpoints
+JupyterNotebookP1.ipynb
